@@ -1,4 +1,5 @@
 arduino
 =======
 
-Scritps y ejemplos de los Arduino Labs
+So far, some examples and snipets of code for arduino projects.
+
